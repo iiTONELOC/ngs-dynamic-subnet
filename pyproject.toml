@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "NG_Subnet"
+version = "0.1.0"
+description = "A dependency-free Python module for dynamically generating subnets."
+authors = [{name = "Anthony Tropeano", email = "anthonytropeano@me.com"}]
+readme = "README.md"

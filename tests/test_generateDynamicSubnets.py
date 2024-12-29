@@ -4,7 +4,7 @@ All Rights Reserved.
 """
 
 import pytest
-from NG_Subnet.NG_Subnet_Calculator import generateDynamicSubnets
+from NG_Subnet import generateDynamicSubnets
 
 expectedData = {
     "Subnet-1": {

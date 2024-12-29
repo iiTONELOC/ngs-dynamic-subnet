@@ -327,7 +327,7 @@ The primary means of interacting with the module should be through the `generate
 Additionally, the subnet calculator can be invoked as a script and executed from the command line:
 
 ```bash
-python3 /path/to/NG_Subnet_Calculator.py
+python3 /absolute/or/relative/path/to/ngs-dynamic-subnet
 ```
 
 ## Tests

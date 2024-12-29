@@ -4,7 +4,7 @@ All Rights Reserved.
 """
 
 import pytest
-from NG_Subnet.NG_Subnet_Calculator import calculateRequiredSubnetSize
+from NG_Subnet import calculateRequiredSubnetSize
 
 
 def test_calculateRequiredSubnetSize():
